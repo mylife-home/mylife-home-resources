@@ -5,5 +5,8 @@
     "ui_channel"     : "mylife-ui",
     "admin_channel"  : "mylife-admin",
     "resources_nick" : "mylife-home-resources"
+  },
+  "data": {
+    "directory": "data/"
   }
 }
