@@ -4,6 +4,7 @@
     "port"           : 6667,
     "ui_channel"     : "mylife-ui",
     "admin_channel"  : "mylife-admin",
+    "log_channel"    : "mylife-log",
     "resources_nick" : "mylife-home-resources"
   },
   "data": {
