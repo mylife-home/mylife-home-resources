@@ -7,7 +7,7 @@
   "author": "Vincent Trumpff",
   "dependencies": {
     "async": "*",
-    "log4js": "*",
+    "log4js": "^1.1.1",
     "mylife-home-common": "mylife-home/mylife-home-common"
   },
   "devDependencies": {
