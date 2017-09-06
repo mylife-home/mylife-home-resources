@@ -1,14 +1,14 @@
 {
   "name": "mylife-home-resources",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mylife Home Resources",
   "main": "index.js",
-  "repository": "https://github.com/vincent-tr/mylife-home-resources",
+  "repository": "https://github.com/mylife-home/mylife-home-resources",
   "author": "Vincent Trumpff",
   "dependencies": {
     "async": "*",
     "log4js": "*",
-    "mylife-home-common": "vincent-tr/mylife-home-common"
+    "mylife-home-common": "mylife-home/mylife-home-common"
   },
   "devDependencies": {
     "chai": "*",
